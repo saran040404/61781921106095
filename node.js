@@ -10,9 +10,9 @@ const data = {
     "companyName": "Sona College Of Technology",
     "clientID": "60046d63-5c41-4280-8fd4-56b8d73240ec",
     "clientSecret": "uPACHFsccIsOnAAp",
-    "ownerName": "Keerthi kumar S",
-    "ownerEmail": "keerthikumar.21it@sonatech.ac.in",
-    "rollNo": "61781921106056"
+    "ownerName": "Saran V",
+    "ownerEmail": "saran.21it@sonatech.ac.in",
+    "rollNo": "61781921106095"
 };
 
 var token = {
